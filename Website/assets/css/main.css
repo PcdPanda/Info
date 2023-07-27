@@ -1,0 +1,12 @@
+@import url("basic.css");
+@import url("nav.css");
+@import url("carousel.css");
+@import url("footer.css");
+@import url("stories.css");
+@import url("tale.css");
+
+* {
+  margin: 0px;
+}
+
+

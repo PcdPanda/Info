@@ -101,6 +101,22 @@
   padding: 7.5em 10em 2em 10em;
 }
 
+#cover_research {
+  position: relative;
+  background: linear-gradient(to bottom, #254d25, black);
+  color: #fff;
+  text-align: center;
+  padding: 7.5em 10em 2em 10em;
+}
+
+#cover_travel {
+  position: relative;
+  background: linear-gradient(to bottom, #444779, black);
+  color: #fff;
+  text-align: center;
+  padding: 7.5em 10em 2em 10em;
+}
+
 .dropotron {
   background: rgba(255, 255, 255, 0.975);
   padding: 1em 1.25em 1em 1.25em;
@@ -155,7 +171,7 @@
   border-right: solid 0.75em rgba(64, 64, 64, 0);
 }
 
-@media all and (max-width: 900px){
+@media all and (max-width: 900px) {
   #cover_robot {
     position: relative;
     background: linear-gradient(to bottom, #5C1126, black);
@@ -164,12 +180,48 @@
     padding: 7.5em 1em 2em 1em;
   }
 
-  #cover_robot h2{
+  #cover_robot h2 {
     font-size: 1.5em;
     font-weight: 900;
   }
 
-  #cover_robot h3{
+  #cover_robot h3 {
+    font-size: 1em;
+    font-weight: 200;
+  }
+
+  #cover_research {
+    position: relative;
+    background: linear-gradient(to bottom, #254d25, black);
+    color: #fff;
+    text-align: center;
+    padding: 7.5em 1em 2em 1em;
+  }
+
+  #cover_research h2 {
+    font-size: 1.5em;
+    font-weight: 900;
+  }
+
+  #cover_research h3 {
+    font-size: 1em;
+    font-weight: 200;
+  }
+
+  #cover_travel {
+    position: relative;
+    background: linear-gradient(to bottom, #444779, black);
+    color: #fff;
+    text-align: center;
+    padding: 7.5em 1em 2em 1em;
+  }
+
+  #cover_travel h2 {
+    font-size: 1.5em;
+    font-weight: 900;
+  }
+
+  #cover_travel h3 {
     font-size: 1em;
     font-weight: 200;
   }

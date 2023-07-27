@@ -14,6 +14,38 @@
     color: #5C1126;
 }
 
+#research_gallery_container {
+    padding: 5em 0em 5em 0em;
+    text-align: center;
+}
+
+#research_gallery_container i {
+    font-size: 2.5em;
+    font-weight: 900;
+    color: #254d25;
+}
+
+#research_gallery_container a {
+    font-weight: 900;
+    color: #254d25;
+}
+
+#travel_gallery_container {
+    padding: 5em 0em 5em 0em;
+    text-align: center;
+}
+
+#travel_gallery_container i {
+    font-size: 2.5em;
+    font-weight: 900;
+    color: #444779;
+}
+
+#travel_gallery_container a {
+    font-weight: 900;
+    color: #444779;
+}
+
 #gallery b {
     font-size: 2em;
     font-weight: 900;

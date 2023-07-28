@@ -69,6 +69,12 @@
     font-style: italic;
 }
 
+#research_gallery_end p {
+    color: #254d25;
+    font-weight: 900;
+    font-style: italic;
+}
+
 @media all and (max-width: 900px) {
     #gallery b {
         font-size: 1em;

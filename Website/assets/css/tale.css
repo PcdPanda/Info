@@ -4,7 +4,7 @@
 }
 
 #robot_gallery_container i {
-    font-size: 2.5em;
+    font-size: 3.5em;
     font-weight: 900;
     color: #5C1126;
 }
@@ -20,7 +20,7 @@
 }
 
 #research_gallery_container i {
-    font-size: 2.5em;
+    font-size: 3.5em;
     font-weight: 900;
     color: #254d25;
 }
@@ -36,7 +36,7 @@
 }
 
 #travel_gallery_container i {
-    font-size: 2.5em;
+    font-size: 3.5em;
     font-weight: 900;
     color: #444779;
 }
@@ -44,6 +44,15 @@
 #travel_gallery_container a {
     font-weight: 900;
     color: #444779;
+}
+
+#travel_gallery_container #gallery p{
+    font-weight: 500;
+}
+
+.img_text{
+    display: flex;
+    flex-direction: column;
 }
 
 #gallery b {
@@ -56,6 +65,7 @@
     flex-direction: row;
     justify-content: center;
     gap: 2.5em;
+    margin-bottom: 2.5em;
 }
 
 #gallery img {
@@ -71,6 +81,12 @@
 
 #research_gallery_end p {
     color: #254d25;
+    font-weight: 900;
+    font-style: italic;
+}
+
+#travel_gallery_end p {
+    color: #444779;
     font-weight: 900;
     font-style: italic;
 }

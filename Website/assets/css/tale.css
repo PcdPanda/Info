@@ -135,6 +135,10 @@
         margin: 0 auto;
     }
 
+    .huge_img {
+        height: 15em;
+    }
+
     .high_img {
         height: 10em;
     }
@@ -156,6 +160,10 @@
         padding: 2.5em 5em 0em 5em;
         width: 55em;
         margin: 0 auto;
+    }
+
+    .huge_img {
+        height: 17.5em;
     }
 
     .high_img {
@@ -182,6 +190,10 @@
         margin: 0 auto;
     }
 
+    .huge_img {
+        height: 20em;
+    }
+
     .high_img {
         height: 15em;
     }
@@ -203,6 +215,10 @@
         padding: 2.5em 5em 0em 5em;
         width: 75em;
         margin: 0 auto;
+    }
+
+    .huge_img {
+        height: 22.5em;
     }
 
     .high_img {
@@ -227,6 +243,11 @@
         width: 85em;
         margin: 0 auto;
     }
+
+    .huge_img {
+        height: 25em;
+    }
+
 
     .high_img {
         height: 20em;
